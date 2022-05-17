@@ -1,0 +1,565 @@
+.mediaViewInfo {
+	--web-view-name: Raw cut;
+	--web-view-id: Raw_cut;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+	--web-page-font: UTM Neutra font, Agency FB font, UTM Neo Sans Intel font;
+}
+:root {
+	--web-view-ids: Raw_cut;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Raw_cut {
+	position: absolute;
+	width: 1920px;
+	height: 3109px;
+	font-family: UTM Neutra font, Agency FB font, UTM Neo Sans Intel font;
+	background-color: rgba(0,0,0,1);
+	overflow: hidden;
+	--web-view-name: Raw cut;
+	--web-view-id: Raw_cut;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+	--web-page-font: UTM Neutra font, Agency FB font, UTM Neo Sans Intel font;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#RAW_CUT_ej {
+	position: absolute;
+	width: 1089.778px;
+	height: 613px;
+	left: 43px;
+	top: 135px;
+	overflow: visible;
+}
+#des_ek {
+	position: absolute;
+	width: 645px;
+	height: 469px;
+	left: 1173px;
+	top: 135px;
+	overflow: visible;
+}
+#RAW_CUTTING_ {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 330px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: UTM Neo Sans Intel, UTM Neutra font, Agency FB font, UTM Neo Sans Intel font;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 50px;
+	color: rgba(230,171,23,1);
+}
+#This_section_may_help_you_lost {
+	left: 0px;
+	top: 82px;
+	position: absolute;
+	overflow: visible;
+	width: 646px;
+	height: 116px;
+	line-height: 38px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Agency FB, UTM Neutra font, Agency FB font, UTM Neo Sans Intel font;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 28px;
+	color: rgba(230,171,23,1);
+}
+#Hows_Work {
+	left: 0px;
+	top: 252px;
+	position: absolute;
+	overflow: visible;
+	width: 365px;
+	height: 82px;
+	text-align: left;
+	font-family: UTM Neo Sans Intel, UTM Neutra font, Agency FB font, UTM Neo Sans Intel font;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 50px;
+	color: rgba(230,171,23,1);
+}
+#Click_into_the_Name__Anime__an {
+	left: 0px;
+	top: 347px;
+	position: absolute;
+	overflow: visible;
+	width: 620px;
+	height: 122px;
+	line-height: 38px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Agency FB, UTM Neutra font, Agency FB font, UTM Neo Sans Intel font;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 28px;
+	color: rgba(230,171,23,1);
+}
+#link {
+	position: absolute;
+	width: 1652px;
+	height: 1508px;
+	left: 106px;
+	top: 853px;
+	overflow: visible;
+}
+#Tokyo_ghoul_ {
+	left: 0px;
+	top: 6px;
+	position: absolute;
+	overflow: visible;
+	width: 535px;
+	height: 87px;
+	text-align: left;
+	font-family: Agency FB, UTM Neutra font, Agency FB font, UTM Neo Sans Intel font;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 70px;
+	color: rgba(230,171,23,1);
+}
+#Fate_Heavens_Feel_ {
+	left: 0px;
+	top: 123px;
+	position: absolute;
+	overflow: hidden;
+	width: 535px;
+	height: 87px;
+	text-align: left;
+	font-family: Agency FB, UTM Neutra font, Agency FB font, UTM Neo Sans Intel font;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 70px;
+	color: rgba(230,171,23,1);
+}
+#Spirited_Away {
+	left: 0px;
+	top: 242px;
+	position: absolute;
+	overflow: visible;
+	width: 535px;
+	height: 87px;
+	text-align: left;
+	font-family: Agency FB, UTM Neutra font, Agency FB font, UTM Neo Sans Intel font;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 70px;
+	color: rgba(230,171,23,1);
+}
+#Mob_Psycho_100 {
+	left: 0px;
+	top: 360px;
+	position: absolute;
+	overflow: visible;
+	width: 646px;
+	height: 87px;
+	text-align: left;
+	font-family: Agency FB, UTM Neutra font, Agency FB font, UTM Neo Sans Intel font;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 70px;
+	color: rgba(230,171,23,1);
+}
+#Gangsta {
+	left: 0px;
+	top: 478px;
+	position: absolute;
+	overflow: visible;
+	width: 535px;
+	height: 87px;
+	text-align: left;
+	font-family: Agency FB, UTM Neutra font, Agency FB font, UTM Neo Sans Intel font;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 70px;
+	color: rgba(230,171,23,1);
+}
+#The_Disappearance_of_Haruhi_Su {
+	left: 665px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 988px;
+	height: 100px;
+	text-align: left;
+	font-family: Agency FB, UTM Neutra font, Agency FB font, UTM Neo Sans Intel font;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 60px;
+	color: rgba(230,171,23,1);
+}
+#Darling_in_the_Franxx__ {
+	left: 665px;
+	top: 110px;
+	position: absolute;
+	overflow: hidden;
+	width: 537px;
+	height: 100px;
+	text-align: left;
+	font-family: Agency FB, UTM Neutra font, Agency FB font, UTM Neo Sans Intel font;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 70px;
+	color: rgba(230,171,23,1);
+}
+#Zankyou_No_Terror {
+	left: 665px;
+	top: 243px;
+	position: absolute;
+	overflow: visible;
+	width: 882px;
+	height: 87px;
+	text-align: left;
+	font-family: Agency FB, UTM Neutra font, Agency FB font, UTM Neo Sans Intel font;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 70px;
+	color: rgba(230,171,23,1);
+}
+#Fire_Force_ {
+	left: 665px;
+	top: 353px;
+	position: absolute;
+	overflow: hidden;
+	width: 537px;
+	height: 87px;
+	text-align: left;
+	font-family: Agency FB, UTM Neutra font, Agency FB font, UTM Neo Sans Intel font;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 70px;
+	color: rgba(230,171,23,1);
+}
+#Another {
+	left: 665px;
+	top: 481px;
+	position: absolute;
+	overflow: visible;
+	width: 537px;
+	height: 100px;
+	text-align: left;
+	font-family: Agency FB, UTM Neutra font, Agency FB font, UTM Neo Sans Intel font;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 70px;
+	color: rgba(230,171,23,1);
+}
+#Cowboy_bebop {
+	left: 0px;
+	top: 595px;
+	position: absolute;
+	overflow: visible;
+	width: 535px;
+	height: 87px;
+	text-align: left;
+	font-family: Agency FB, UTM Neutra font, Agency FB font, UTM Neo Sans Intel font;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 70px;
+	color: rgba(230,171,23,1);
+}
+#n_cms {
+	left: 665px;
+	top: 591px;
+	position: absolute;
+	overflow: visible;
+	width: 535px;
+	height: 87px;
+	text-align: left;
+	font-family: Agency FB, UTM Neutra font, Agency FB font, UTM Neo Sans Intel font;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 70px;
+	color: rgba(230,171,23,1);
+}
+#Your_Name_e {
+	left: 0px;
+	top: 714px;
+	position: absolute;
+	overflow: visible;
+	width: 535px;
+	height: 87px;
+	text-align: left;
+	font-family: Agency FB, UTM Neutra font, Agency FB font, UTM Neo Sans Intel font;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 70px;
+	color: rgba(230,171,23,1);
+}
+#Bungou_Stray_Dogs {
+	left: 665px;
+	top: 701px;
+	position: absolute;
+	overflow: visible;
+	width: 735px;
+	height: 87px;
+	text-align: left;
+	font-family: Agency FB, UTM Neutra font, Agency FB font, UTM Neo Sans Intel font;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 70px;
+	color: rgba(230,171,23,1);
+}
+#Tower_of_God {
+	left: 0px;
+	top: 831px;
+	position: absolute;
+	overflow: visible;
+	width: 535px;
+	height: 87px;
+	text-align: left;
+	font-family: Agency FB, UTM Neutra font, Agency FB font, UTM Neo Sans Intel font;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 70px;
+	color: rgba(230,171,23,1);
+}
+#Vinland_Saga {
+	left: 665px;
+	top: 830px;
+	position: absolute;
+	overflow: visible;
+	width: 535px;
+	height: 87px;
+	text-align: left;
+	font-family: Agency FB, UTM Neutra font, Agency FB font, UTM Neo Sans Intel font;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 70px;
+	color: rgba(230,171,23,1);
+}
+#Kiznaiver {
+	left: 0px;
+	top: 949px;
+	position: absolute;
+	overflow: visible;
+	width: 535px;
+	height: 87px;
+	text-align: left;
+	font-family: Agency FB, UTM Neutra font, Agency FB font, UTM Neo Sans Intel font;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 70px;
+	color: rgba(230,171,23,1);
+}
+#Bakemonogatari_ {
+	left: 665px;
+	top: 950px;
+	position: absolute;
+	overflow: visible;
+	width: 535px;
+	height: 87px;
+	text-align: left;
+	font-family: Agency FB, UTM Neutra font, Agency FB font, UTM Neo Sans Intel font;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 70px;
+	color: rgba(230,171,23,1);
+}
+#Stein_gate_ss1 {
+	left: 0px;
+	top: 1067px;
+	position: absolute;
+	overflow: visible;
+	width: 535px;
+	height: 87px;
+	text-align: left;
+	font-family: Agency FB, UTM Neutra font, Agency FB font, UTM Neo Sans Intel font;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 70px;
+	color: rgba(230,171,23,1);
+}
+#Tamako_Love_Story {
+	left: 665px;
+	top: 1060px;
+	position: absolute;
+	overflow: visible;
+	width: 816px;
+	height: 87px;
+	text-align: left;
+	font-family: Agency FB, UTM Neutra font, Agency FB font, UTM Neo Sans Intel font;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 70px;
+	color: rgba(230,171,23,1);
+}
+#Tenki_no_Ko_ {
+	left: 0px;
+	top: 1185px;
+	position: absolute;
+	overflow: visible;
+	width: 535px;
+	height: 87px;
+	text-align: left;
+	font-family: Agency FB, UTM Neutra font, Agency FB font, UTM Neo Sans Intel font;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 70px;
+	color: rgba(230,171,23,1);
+}
+#Noragami_ {
+	left: 665px;
+	top: 1189px;
+	position: absolute;
+	overflow: visible;
+	width: 535px;
+	height: 87px;
+	text-align: left;
+	font-family: Agency FB, UTM Neutra font, Agency FB font, UTM Neo Sans Intel font;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 70px;
+	color: rgba(230,171,23,1);
+}
+#Kimetsu_no_yaiba {
+	left: 0px;
+	top: 1304px;
+	position: absolute;
+	overflow: visible;
+	width: 632px;
+	height: 87px;
+	text-align: left;
+	font-family: Agency FB, UTM Neutra font, Agency FB font, UTM Neo Sans Intel font;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 70px;
+	color: rgba(230,171,23,1);
+}
+#Violet_Evergarden {
+	left: 665px;
+	top: 1309px;
+	position: absolute;
+	overflow: visible;
+	width: 535px;
+	height: 87px;
+	text-align: left;
+	font-family: Agency FB, UTM Neutra font, Agency FB font, UTM Neo Sans Intel font;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 70px;
+	color: rgba(230,171,23,1);
+}
+#Attack_On_Titan_ {
+	left: 0px;
+	top: 1421px;
+	position: absolute;
+	overflow: visible;
+	width: 618px;
+	height: 87px;
+	text-align: left;
+	font-family: Agency FB, UTM Neutra font, Agency FB font, UTM Neo Sans Intel font;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 70px;
+	color: rgba(230,171,23,1);
+}
+#text_ff {
+	position: absolute;
+	width: 1131px;
+	height: 55px;
+	left: 66px;
+	top: 29px;
+	overflow: visible;
+}
+#BACK_fg {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 86px;
+	height: 37px;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: home.html;
+	cursor: pointer;
+	line-height: 38px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: UTM Neutra, UTM Neutra font, Agency FB font, UTM Neo Sans Intel font;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 28px;
+	color: rgba(230,171,23,1);
+}
+#HOME_fh {
+	left: 113px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 86px;
+	height: 37px;
+	line-height: 38px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: UTM Neutra, UTM Neutra font, Agency FB font, UTM Neo Sans Intel font;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 28px;
+	color: rgba(230,171,23,1);
+}
+#DONATE__MB_2001868633333_fi {
+	left: 609px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 523px;
+	height: 55px;
+	line-height: 38px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: UTM Neutra, UTM Neutra font, Agency FB font, UTM Neo Sans Intel font;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 28px;
+	color: rgba(230,171,23,1);
+}
+#CONTACT_fj {
+	left: 243px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 139px;
+	height: 37px;
+	line-height: 38px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: UTM Neutra, UTM Neutra font, Agency FB font, UTM Neo Sans Intel font;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 28px;
+	color: rgba(230,171,23,1);
+}
+#MASKING_fk {
+	left: 426px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 139px;
+	height: 37px;
+	line-height: 38px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: UTM Neutra, UTM Neutra font, Agency FB font, UTM Neo Sans Intel font;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 28px;
+	color: rgba(230,171,23,1);
+}

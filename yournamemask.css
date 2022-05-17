@@ -1,0 +1,344 @@
+.mediaViewInfo {
+	--web-view-name: Mask Pack Your Name;
+	--web-view-id: Mask_Pack_Your_Name;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+	--web-page-font: UTM Neutra font, Agency FB font, UTM Neo Sans Intel font;
+}
+
+:root {
+	--web-view-ids: Mask_Pack_Your_Name;
+}
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+
+#Mask_Pack_Your_Name {
+	position: absolute;
+	width: 1920px;
+	height: 2134px;
+	font-family: UTM Neutra font, Agency FB font, UTM Neo Sans Intel font;
+	background-color: rgba(0, 0, 0, 1);
+	overflow: hidden;
+	--web-view-name: Mask Pack Your Name;
+	--web-view-id: Mask_Pack_Your_Name;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+	--web-page-font: UTM Neutra font, Agency FB font, UTM Neo Sans Intel font;
+}
+
+#text_kb {
+	position: absolute;
+	width: 1158px;
+	height: 55px;
+	left: 63px;
+	top: 29px;
+	overflow: visible;
+}
+
+#BACK_kc {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 86px;
+	height: 37px;
+	line-height: 38px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: UTM Neutra, UTM Neutra font, Agency FB font, UTM Neo Sans Intel font;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 28px;
+	color: rgba(230, 171, 23, 1);
+}
+
+#HOME_kd {
+	left: 140px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 86px;
+	height: 37px;
+	line-height: 38px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: UTM Neutra, UTM Neutra font, Agency FB font, UTM Neo Sans Intel font;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 28px;
+	color: rgba(230, 171, 23, 1);
+}
+
+#DONATE__MB_2001868633333_ke {
+	left: 636px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 523px;
+	height: 55px;
+	line-height: 38px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: UTM Neutra, UTM Neutra font, Agency FB font, UTM Neo Sans Intel font;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 28px;
+	color: rgba(230, 171, 23, 1);
+}
+
+#CONTACT_kf {
+	left: 270px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 139px;
+	height: 37px;
+	line-height: 38px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: UTM Neutra, UTM Neutra font, Agency FB font, UTM Neo Sans Intel font;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 28px;
+	color: rgba(230, 171, 23, 1);
+}
+
+#MASKING_kg {
+	left: 453px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 139px;
+	height: 37px;
+	line-height: 38px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: UTM Neutra, UTM Neutra font, Agency FB font, UTM Neo Sans Intel font;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 28px;
+	color: rgba(230, 171, 23, 1);
+}
+
+#mask_your_name {
+	position: absolute;
+	width: 1703px;
+	height: 1011px;
+	left: 109px;
+	top: 159px;
+	overflow: visible;
+}
+
+#Scroll_Group_Preview_ki::-webkit-scrollbar {
+	background-color: #1C1B1B;
+
+}
+
+#Scroll_Group_Preview_ki::-webkit-scrollbar-thumb {
+	background-color: white;
+	border-radius: 10rem;
+
+}
+
+#Scroll_Group_Preview_ki {
+	mix-blend-mode: normal;
+	position: absolute;
+	width: 1703px;
+	height: 215px;
+	left: 0px;
+	top: 796px;
+	overflow-x: scroll;
+	overflow-y: hidden;
+}
+
+#n_9_kj {
+	position: absolute;
+	width: 410px;
+	height: 215px;
+	left: 1724px;
+	top: 0px;
+	overflow: visible;
+}
+
+#Mask_Group_18_kk {
+	position: absolute;
+	width: 410px;
+	height: 215px;
+	left: 1293px;
+	top: 0px;
+	overflow: visible;
+}
+
+#Mask_Group_15_kl {
+	position: absolute;
+	width: 410px;
+	height: 215px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+
+#Mask_Group_17_km {
+	position: absolute;
+	width: 410px;
+	height: 215px;
+	left: 862px;
+	top: 0px;
+	overflow: visible;
+}
+
+#Mask_Group_16_kn {
+	position: absolute;
+	width: 410px;
+	height: 215px;
+	left: 431px;
+	top: 0px;
+	overflow: visible;
+}
+
+#PREVIEW_ko {
+	left: 0px;
+	top: 709px;
+	position: absolute;
+	overflow: visible;
+	width: 185px;
+	height: 73px;
+	text-align: left;
+	font-family: Agency FB, UTM Neutra font, Agency FB font, UTM Neo Sans Intel font;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(230, 171, 23, 1);
+}
+
+#n_40296 {
+	position: absolute;
+	width: 1703px;
+	height: 512px;
+	left: 0px;
+	top: 97px;
+	overflow: visible;
+}
+
+#MASK_PACK_YourName {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 513px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: UTM Neo Sans Intel, UTM Neutra font, Agency FB font, UTM Neo Sans Intel font;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 50px;
+	color: rgba(230, 171, 23, 1);
+}
+
+#download_kr {
+	position: absolute;
+	width: 207px;
+	height: 87px;
+	left: 18px;
+	top: 508px;
+	overflow: visible;
+}
+
+#Rectangle_22501_ks {
+	fill: rgba(0, 0, 0, 1);
+	stroke: rgba(112, 112, 112, 1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+
+.Rectangle_22501_ks {
+	position: absolute;
+	overflow: visible;
+	width: 207px;
+	height: 79px;
+	left: 0px;
+	top: 0px;
+}
+
+#DOWNLOAD_kt {
+	left: 23px;
+	top: 14px;
+	position: absolute;
+	overflow: visible;
+	width: 185px;
+	height: 73px;
+	text-align: left;
+	font-family: Agency FB, UTM Neutra font, Agency FB font, UTM Neo Sans Intel font;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(230, 171, 23, 1);
+}
+
+#more_pack_ku {
+	position: absolute;
+	width: 1708px;
+	height: 301px;
+	left: 106px;
+	top: 1301px;
+	overflow: visible;
+}
+
+#MORE_PACK_kv {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 172px;
+	height: 50px;
+	text-align: left;
+	font-family: Agency FB, UTM Neutra font, Agency FB font, UTM Neo Sans Intel font;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(230, 171, 23, 1);
+}
+
+#plugin_kw {
+	position: absolute;
+	width: 369px;
+	height: 208px;
+	left: 0px;
+	top: 93px;
+	overflow: visible;
+}
+
+#RAW_CUT_kx {
+	position: absolute;
+	width: 370px;
+	height: 208px;
+	left: 441px;
+	top: 93px;
+	overflow: visible;
+}
+
+#sfx_ky {
+	position: absolute;
+	width: 370px;
+	height: 208px;
+	left: 894px;
+	top: 93px;
+	overflow: visible;
+}
+
+#overlay_kz {
+	position: absolute;
+	width: 369px;
+	height: 208px;
+	left: 1339px;
+	top: 93px;
+	overflow: visible;
+}

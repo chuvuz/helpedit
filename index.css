@@ -1,0 +1,1765 @@
+.mediaViewInfo {
+	--web-view-name: HOME;
+	--web-view-id: HOME;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+	--web-page-font: UTM Neutra font, Agency FB font, UTM Neo Sans Intel font;
+}
+
+:root {
+	--web-view-ids: HOME;
+}
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+
+#HOME {
+	position: absolute;
+	width: 1930px;
+	height: 5079px;
+	font-family: UTM Neutra font, Agency FB font, UTM Neo Sans Intel font;
+	background-color: rgba(28, 27, 27, 1);
+	overflow: hidden;
+	--web-view-name: HOME;
+	--web-view-id: HOME;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+	--web-page-font: UTM Neutra font, Agency FB font, UTM Neo Sans Intel font;
+}
+
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+
+	100% {
+		opacity: 1;
+	}
+
+}
+
+#NEWS {
+	position: absolute;
+	width: 1926px;
+	height: 699.237px;
+	left: 0px;
+	top: 3962.096px;
+	overflow: visible;
+}
+
+#post3 {
+	position: absolute;
+	width: 571px;
+	height: 574px;
+	left: 1291px;
+	top: 124.904px;
+	overflow: visible;
+}
+
+#Rectangle_3 {
+	fill: rgba(255, 255, 255, 1);
+}
+
+.Rectangle_3 {
+	filter: drop-shadow(0px 1px 3px rgba(0, 0, 0, 0.11));
+	position: absolute;
+	overflow: visible;
+	width: 580px;
+	height: 583px;
+	left: 0px;
+	top: 0px;
+}
+
+#Sword-Art-Online-2 {
+	filter: drop-shadow(0px 0px 2px rgba(125, 145, 148, 0.478));
+	position: absolute;
+	width: 544.352px;
+	height: 340.016px;
+	left: 13px;
+	top: 20.653px;
+	overflow: visible;
+}
+
+#SWORD_ART_ONLINE_RA_MT_VIDEO_R {
+	left: 13px;
+	top: 373.332px;
+	position: absolute;
+	overflow: visible;
+	width: 494px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial, UTM Neutra font, Agency FB font, UTM Neo Sans Intel font;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 17px;
+	color: rgba(38, 56, 67, 1);
+}
+
+#n_0_days_ago__by_Khang_Dora___ {
+	left: 83.892px;
+	top: 429.22px;
+	position: absolute;
+	overflow: visible;
+	width: 239px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Raleway, UTM Neutra font, Agency FB font, UTM Neo Sans Intel font;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(195, 204, 211, 1);
+}
+
+#Aniplex_mi_y__pht_hnh_mt_on_vi {
+	left: 13px;
+	top: 457.673px;
+	position: absolute;
+	overflow: hidden;
+	width: 545.352px;
+	height: 110.04682159423828px;
+	line-height: 26px;
+	margin-top: -6px;
+	text-align: left;
+	font-family: Times New Roman, UTM Neutra font, Agency FB font, UTM Neo Sans Intel font;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(118, 135, 145, 1);
+	letter-spacing: 0.1px;
+}
+
+#news {
+	position: absolute;
+	width: 73px;
+	height: 18px;
+	left: 13px;
+	top: 427.231px;
+	overflow: visible;
+}
+
+#bg_text {
+	fill: rgba(245, 56, 26, 1);
+}
+
+.bg_text {
+	position: absolute;
+	overflow: visible;
+	width: 73px;
+	height: 18px;
+	left: 0px;
+	top: 0px;
+}
+
+#NEWS_ {
+	left: 21.5px;
+	top: 3.5px;
+	position: absolute;
+	overflow: visible;
+	width: 31px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Raleway, UTM Neutra font, Agency FB font, UTM Neo Sans Intel font;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 10px;
+	color: rgba(255, 255, 255, 1);
+}
+
+#post2 {
+	position: absolute;
+	width: 571px;
+	height: 574px;
+	left: 678px;
+	top: 124.904px;
+	overflow: visible;
+}
+
+#Rectangle_3_ {
+	fill: rgba(255, 255, 255, 1);
+}
+
+.Rectangle_3_ {
+	filter: drop-shadow(0px 1px 3px rgba(0, 0, 0, 0.11));
+	position: absolute;
+	overflow: visible;
+	width: 580px;
+	height: 583px;
+	left: 0px;
+	top: 0px;
+}
+
+#n_6a982fda476a59e_d0d7956374ce {
+	filter: drop-shadow(0px 0px 2px rgba(125, 145, 148, 0.478));
+	position: absolute;
+	width: 544.11px;
+	height: 340.016px;
+	left: 13px;
+	top: 20.652px;
+	overflow: visible;
+}
+
+#SUZUME_NO_TOJIMARI_-_NHNG_CNH_ {
+	left: 13px;
+	top: 375.732px;
+	position: absolute;
+	overflow: visible;
+	width: 509px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Arial, UTM Neutra font, Agency FB font, UTM Neo Sans Intel font;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 17px;
+	color: rgba(38, 56, 67, 1);
+}
+
+#n__days_ago__by_Ngn_Nhi____3_m {
+	left: 87.426px;
+	top: 415.375px;
+	position: absolute;
+	overflow: visible;
+	width: 221px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Raleway, UTM Neutra font, Agency FB font, UTM Neo Sans Intel font;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(195, 204, 211, 1);
+}
+
+#Makoto_Shinkai_Your_Name_Weath {
+	left: 13px;
+	top: 449.673px;
+	position: absolute;
+	overflow: visible;
+	width: 545.11px;
+	height: 104.04682159423828px;
+	line-height: 26px;
+	margin-top: -6px;
+	text-align: left;
+	font-family: Times New Roman, UTM Neutra font, Agency FB font, UTM Neo Sans Intel font;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(118, 135, 145, 1);
+	letter-spacing: 0.1px;
+}
+
+#news_ {
+	position: absolute;
+	width: 73px;
+	height: 18px;
+	left: 13px;
+	top: 413.385px;
+	overflow: visible;
+}
+
+#Rectangle_12 {
+	fill: rgba(245, 56, 26, 1);
+}
+
+.Rectangle_12 {
+	position: absolute;
+	overflow: visible;
+	width: 73px;
+	height: 18px;
+	left: 0px;
+	top: 0px;
+}
+
+#NEWS_ba {
+	left: 22.5px;
+	top: 3.5px;
+	position: absolute;
+	overflow: visible;
+	width: 31px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Raleway, UTM Neutra font, Agency FB font, UTM Neo Sans Intel font;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 10px;
+	color: rgba(255, 255, 255, 1);
+}
+
+#post1 {
+	position: absolute;
+	width: 570.639px;
+	height: 574px;
+	left: 65px;
+	top: 125.237px;
+	overflow: visible;
+}
+
+#Rectangle_3_bc {
+	fill: rgba(255, 255, 255, 1);
+}
+
+.Rectangle_3_bc {
+	filter: drop-shadow(0px 1px 3px rgba(0, 0, 0, 0.11));
+	position: absolute;
+	overflow: visible;
+	width: 579.639px;
+	height: 583px;
+	left: 0px;
+	top: 0px;
+}
+
+#uhdpapercom-download-pc-4k-wal {
+	filter: drop-shadow(0px 0px 2px rgba(125, 145, 148, 0.478));
+	position: absolute;
+	width: 543.992px;
+	height: 340.016px;
+	left: 13.519px;
+	top: 15.653px;
+	overflow: visible;
+}
+
+#JUJUTSU_KAISEN_TR_THNH_B_PHIM_ {
+	left: 17.519px;
+	top: 366.627px;
+	position: absolute;
+	overflow: visible;
+	width: 468px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial, UTM Neutra font, Agency FB font, UTM Neo Sans Intel font;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 17px;
+	color: rgba(38, 56, 67, 1);
+}
+
+#n__days_ago__by_RenaAkira_____ {
+	left: 86.391px;
+	top: 422.585px;
+	position: absolute;
+	overflow: visible;
+	width: 227px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Raleway, UTM Neutra font, Agency FB font, UTM Neo Sans Intel font;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(195, 204, 211, 1);
+}
+
+#Bt_chp_s_cnh_tranh_gay_gt_ti_p {
+	left: 17.519px;
+	top: 447.544px;
+	position: absolute;
+	overflow: visible;
+	width: 547.048px;
+	height: 102.3260498046875px;
+	line-height: 26px;
+	margin-top: -6px;
+	text-align: left;
+	font-family: Times New Roman, UTM Neutra font, Agency FB font, UTM Neo Sans Intel font;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(118, 135, 145, 1);
+	letter-spacing: 0.1px;
+}
+
+#news_bh {
+	position: absolute;
+	width: 73.003px;
+	height: 18px;
+	left: 17.519px;
+	top: 420.585px;
+	overflow: visible;
+}
+
+#Rectangle_9 {
+	fill: rgba(245, 56, 26, 1);
+}
+
+.Rectangle_9 {
+	position: absolute;
+	overflow: visible;
+	width: 73.003px;
+	height: 18px;
+	left: 0px;
+	top: 0px;
+}
+
+#NEWS_bj {
+	left: 21.501px;
+	top: 3.5px;
+	position: absolute;
+	overflow: visible;
+	width: 31px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Raleway, UTM Neutra font, Agency FB font, UTM Neo Sans Intel font;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 10px;
+	color: rgba(255, 255, 255, 1);
+}
+
+#NEWS_bk {
+	left: 65px;
+	top: 39.561px;
+	position: absolute;
+	overflow: visible;
+	width: 105px;
+	height: 47px;
+	text-align: left;
+	font-family: Agency FB, UTM Neutra font, Agency FB font, UTM Neo Sans Intel font;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(255, 182, 0, 1);
+	text-transform: uppercase;
+}
+
+#Line_5 {
+	fill: transparent;
+	stroke: rgba(0, 0, 0, 1);
+	stroke-width: 8px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+
+.Line_5 {
+	overflow: visible;
+	position: absolute;
+	width: 1926px;
+	height: 8px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+#Tutorial {
+	position: absolute;
+	width: 1962.5px;
+	height: 970.81px;
+	left: 0.5px;
+	top: 2511.935px;
+	overflow: visible;
+}
+
+#TUTORIAL {
+	left: 72.5px;
+	top: 44.81px;
+	position: absolute;
+	overflow: visible;
+	width: 416px;
+	height: 70px;
+	text-align: left;
+	font-family: Agency FB, UTM Neutra font, Agency FB font, UTM Neo Sans Intel font;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 50px;
+	color: rgba(255, 182, 0, 1);
+	text-transform: uppercase;
+}
+
+#Line_4 {
+	fill: transparent;
+	stroke: rgba(0, 0, 0, 1);
+	stroke-width: 8px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+
+.Line_4 {
+	overflow: visible;
+	position: absolute;
+	width: 1912.05px;
+	height: 20px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+#after_effect {
+	position: absolute;
+	width: 1886px;
+	height: 367px;
+	left: 72.5px;
+	top: 137.81px;
+	overflow: visible;
+}
+
+#Scroll_Group_AE::-webkit-scrollbar {
+	background-color: #1C1B1B;
+	height: 10px;
+
+}
+
+#Scroll_Group_AE::-webkit-scrollbar-thumb {
+	background-color: white;
+	border-radius: 10rem;
+
+}
+
+#Scroll_Group_AE {
+	mix-blend-mode: normal;
+	position: absolute;
+	width: 1750px;
+	height: 315px;
+	left: 0px;
+	top: 52px;
+	overflow-x: auto;
+	overflow-y: hidden;
+}
+
+#Rectangle_22480 {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	width: 560px;
+	height: 315px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+
+#Rectangle_22481 {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	width: 560px;
+	height: 315px;
+	left: 595px;
+	top: 0px;
+	overflow: visible;
+}
+
+#Rectangle_22482 {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	width: 560px;
+	height: 315px;
+	left: 1190px;
+	top: 0px;
+	overflow: visible;
+}
+
+#Rectangle_22486 {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	width: 560px;
+	height: 315px;
+	left: 1785px;
+	top: 0px;
+	overflow: visible;
+}
+
+#Rectangle_22487 {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	width: 560px;
+	height: 315px;
+	left: 2380px;
+	top: 0px;
+	overflow: visible;
+}
+
+#SEE_MORE {
+	left: 1614px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 273px;
+	height: 41px;
+	line-height: 38px;
+	margin-top: -9px;
+	text-align: left;
+	font-family: UTM Neo Sans Intel, UTM Neutra font, Agency FB font, UTM Neo Sans Intel font;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255, 182, 0, 1);
+	text-transform: uppercase;
+}
+
+#After_Effect_bx {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 273px;
+	height: 41px;
+	line-height: 38px;
+	margin-top: -9px;
+	text-align: left;
+	font-family: UTM Neo Sans Intel, UTM Neutra font, Agency FB font, UTM Neo Sans Intel font;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255, 182, 0, 1);
+	text-transform: uppercase;
+}
+
+#sony_vegas {
+	position: absolute;
+	width: 1890px;
+	height: 367px;
+	left: 72.5px;
+	top: 603.81px;
+	overflow: visible;
+}
+
+#Scroll_Group_SVP::-webkit-scrollbar {
+	background-color: #1C1B1B;
+	height: 10px;
+
+}
+
+#Scroll_Group_SVP::-webkit-scrollbar-thumb {
+	background-color: white;
+	border-radius: 10rem;
+
+}
+
+#Scroll_Group_SVP {
+	mix-blend-mode: normal;
+	position: absolute;
+	width: 1754px;
+	height: 324px;
+	left: 0px;
+	top: 43px;
+	overflow-x: auto;
+	overflow-y: hidden;
+}
+
+#Rectangle_22483 {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	width: 560px;
+	height: 315px;
+	left: 0px;
+	top: 9px;
+	overflow: visible;
+}
+
+#Rectangle_22484 {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	width: 560px;
+	height: 315px;
+	left: 595px;
+	top: 9px;
+	overflow: visible;
+}
+
+#Rectangle_22485 {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	width: 560px;
+	height: 315px;
+	left: 1190px;
+	top: 9px;
+	overflow: visible;
+}
+
+#Rectangle_22489 {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	width: 560px;
+	height: 315px;
+	left: 1785px;
+	top: 9px;
+	overflow: visible;
+}
+
+#Rectangle_22490 {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	width: 560px;
+	height: 315px;
+	left: 2380px;
+	top: 0px;
+	overflow: visible;
+}
+
+#SEE_MORE_b {
+	left: 1618px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 273px;
+	height: 41px;
+	line-height: 38px;
+	margin-top: -9px;
+	text-align: left;
+	font-family: UTM Neo Sans Intel, UTM Neutra font, Agency FB font, UTM Neo Sans Intel font;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255, 182, 0, 1);
+	text-transform: uppercase;
+}
+
+#SONY_VEGAS_b {
+	left: 4px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 219px;
+	height: 43px;
+	line-height: 38px;
+	margin-top: -9px;
+	text-align: left;
+	font-family: UTM Neo Sans Intel, UTM Neutra font, Agency FB font, UTM Neo Sans Intel font;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255, 182, 0, 1);
+	text-transform: uppercase;
+}
+
+#promo {
+	position: absolute;
+	width: 1926px;
+	height: 356.547px;
+	left: 0px;
+	top: 3544.147px;
+	overflow: visible;
+}
+
+#Image_1 {
+	position: absolute;
+	width: 425px;
+	height: 239px;
+	left: 68.5px;
+	top: 117.547px;
+	overflow: visible;
+}
+
+#Image_2 {
+	position: absolute;
+	width: 433px;
+	height: 243px;
+	left: 941.894px;
+	top: 113.547px;
+	overflow: visible;
+}
+
+#Image_3 {
+	position: absolute;
+	width: 427px;
+	height: 239px;
+	left: 503.663px;
+	top: 117.547px;
+	overflow: visible;
+}
+
+#HnNbFZ46_4x {
+	position: absolute;
+	width: 432.343px;
+	height: 243px;
+	left: 1386.157px;
+	top: 113.547px;
+	overflow: visible;
+}
+
+#PROMO_cc {
+	left: 68.5px;
+	top: 37.561px;
+	position: absolute;
+	overflow: visible;
+	width: 105px;
+	height: 47px;
+	text-align: left;
+	font-family: Agency FB, UTM Neutra font, Agency FB font, UTM Neo Sans Intel font;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(255, 182, 0, 1);
+	text-transform: uppercase;
+}
+
+#Line_3 {
+	fill: transparent;
+	stroke: rgba(0, 0, 0, 1);
+	stroke-width: 8px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+
+.Line_3 {
+	overflow: visible;
+	position: absolute;
+	width: 1926px;
+	height: 8px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+#MEP__AMV {
+	position: absolute;
+	width: 1912px;
+	height: 930.746px;
+	left: 0px;
+	top: 1451px;
+	overflow: visible;
+}
+
+#Scroll_Group_AMV::-webkit-scrollbar {
+	background-color: #1C1B1B;
+	height: 10px;
+
+}
+
+#Scroll_Group_AMV::-webkit-scrollbar-thumb {
+	background-color: white;
+	border-radius: 10rem;
+
+}
+
+#Scroll_Group_AMV {
+	mix-blend-mode: normal;
+	position: absolute;
+	width: 1758px;
+	height: 315px;
+	left: 69px;
+	top: 615.746px;
+	overflow-x: scroll;
+	overflow-y: hidden;
+}
+
+#Rectangle_22491 {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	width: 560px;
+	height: 315px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+
+#Rectangle_22492 {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	width: 560px;
+	height: 315px;
+	left: 599px;
+	top: 0px;
+	overflow: visible;
+}
+
+#Rectangle_22493 {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	width: 560px;
+	height: 315px;
+	left: 1198px;
+	top: 0px;
+	overflow: visible;
+}
+
+#Rectangle_22494 {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	width: 560px;
+	height: 315px;
+	left: 1797px;
+	top: 0px;
+	overflow: visible;
+}
+
+#Rectangle_22495 {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	width: 560px;
+	height: 315px;
+	left: 2396px;
+	top: 0px;
+	overflow: visible;
+}
+
+@font-face {
+	font-family: UTM Neutra font;
+	src: url(font/UTM\ Neutra.ttf);
+
+}
+
+@font-face {
+	font-family: UTM Neo Sans Intel font;
+	src: url(font/UTM\ Neo\ Sans\ Intel.ttf);
+}
+
+@font-face {
+	font-family: AGENCYB font;
+	src: url(font/AGENCYB.ttf);
+}
+
+#ANIME_MUSIC_VIDEO {
+	left: 69px;
+	top: 533.746px;
+	position: absolute;
+	overflow: visible;
+	width: 561px;
+	height: 82px;
+	text-align: left;
+	font-family: UTM Neutra font, Agency FB font, UTM Neo Sans Intel font;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(255, 182, 0, 1);
+	text-transform: uppercase;
+}
+
+#Scroll_Group_MEP::-webkit-scrollbar {
+	background-color: #000000;
+	height: 8px;
+
+
+}
+
+#Scroll_Group_MEP::-webkit-scrollbar-thumb {
+	background-color: rgb(255, 255, 255);
+	border-radius: 10rem;
+
+}
+
+#Scroll_Group_MEP {
+	mix-blend-mode: normal;
+	position: absolute;
+	width: 1758px;
+	height: 315px;
+	left: 69px;
+	top: 137.746px;
+	overflow-x: scroll;
+	overflow-y: hidden;
+}
+
+#Rectangle_22474 {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	width: 560px;
+	height: 315px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+
+#Rectangle_22475 {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	width: 560px;
+	height: 315px;
+	left: 599px;
+	top: 0px;
+	overflow: visible;
+}
+
+#Rectangle_22476 {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	width: 560px;
+	height: 315px;
+	left: 1198px;
+	top: 0px;
+	overflow: hidden;
+}
+
+#Rectangle_22477 {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	width: 560px;
+	height: 315px;
+	left: 1797px;
+	top: 0px;
+	overflow: visible;
+}
+
+#Rectangle_22488 {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	width: 560px;
+	height: 315px;
+	left: 2396px;
+	top: 0px;
+	overflow: visible;
+}
+
+#Muilti_editor_project_ {
+	left: 69px;
+	top: 55.746px;
+	position: absolute;
+	overflow: visible;
+	width: 561px;
+	height: 82px;
+	text-align: left;
+	font-family: Agency FB, UTM Neutra font, Agency FB font, UTM Neo Sans Intel font;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(255, 182, 0, 1);
+	text-transform: uppercase;
+}
+
+#Line_2 {
+	fill: transparent;
+	stroke: rgba(0, 0, 0, 1);
+	stroke-width: 8px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+
+.Line_2 {
+	overflow: visible;
+	position: absolute;
+	width: 1912.05px;
+	height: 20px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+#Editing_source {
+	position: absolute;
+	width: 1193px;
+	height: 583px;
+	left: 62px;
+	top: 759px;
+	overflow: visible;
+}
+
+#Scroll_Group_1::-webkit-scrollbar {
+	background-color: #1C1B1B;
+	width: 10px;
+
+}
+
+#Scroll_Group_1::-webkit-scrollbar-thumb {
+	background-color: white;
+	border-radius: 10rem;
+
+}
+
+#Scroll_Group_1 {
+	mix-blend-mode: normal;
+	position: absolute;
+	width: 310px;
+	height: 509px;
+	left: 883px;
+	top: 74px;
+	overflow-x: hidden;
+	overflow-y: scroll;
+}
+
+#overlay {
+	position: absolute;
+	width: 304px;
+	height: 159px;
+	left: 3px;
+	top: 350px;
+	overflow: visible;
+}
+
+#plugin_cz {
+	position: absolute;
+	width: 304px;
+	height: 159px;
+	left: 3px;
+	top: 0px;
+	overflow: visible;
+}
+
+#RAW_CUT {
+	position: absolute;
+	width: 304px;
+	height: 159px;
+	left: 3px;
+	top: 175px;
+	overflow: visible;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: rawcut.html;
+	cursor: pointer;
+}
+
+#plugin_cz {
+	position: absolute;
+	width: 304px;
+	height: 159px;
+	left: 3px;
+	top: 0px;
+	overflow: visible;
+}
+
+#sfx {
+	position: absolute;
+	width: 307px;
+	height: 179px;
+	left: 3px;
+	top: 720px;
+	overflow: visible;
+}
+
+#cc_pack {
+	position: absolute;
+	width: 307px;
+	height: 179px;
+	left: 0px;
+	top: 525px;
+	overflow: visible;
+}
+
+#THUMBNAIL_WEB_MASKING {
+	position: absolute;
+	width: 861px;
+	height: 500px;
+	left: 0px;
+	top: 83px;
+	overflow: visible;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: masking.html;
+	cursor: pointer;
+}
+
+#EDITING_SOURCE {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 223px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Agency FB, UTM Neutra font, Agency FB font, UTM Neo Sans Intel font;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(230, 171, 23, 1);
+	text-transform: uppercase;
+}
+
+#side {
+	position: absolute;
+	width: 574.5px;
+	height: 729.5px;
+	left: 1337.5px;
+	top: 721.5px;
+	overflow: visible;
+}
+
+#Rectangle_22473 {
+	fill: rgba(28, 27, 27, 1);
+}
+
+.Rectangle_22473 {
+	position: absolute;
+	overflow: visible;
+	width: 552px;
+	height: 705px;
+	left: 22.5px;
+	top: 24.5px;
+}
+
+#amv_des_cription {
+	position: absolute;
+	width: 513px;
+	height: 251px;
+	left: 43.5px;
+	top: 82.5px;
+	overflow: visible;
+}
+
+#An_anime_music_video_AMV_known {
+	left: 0px;
+	top: 61px;
+	position: absolute;
+	overflow: visible;
+	width: 514px;
+	height: 190px;
+	line-height: 38px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: UTM Neo Sans Intel, UTM Neutra font, Agency FB font, UTM Neo Sans Intel font;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 28px;
+	color: rgba(255, 255, 255, 1);
+}
+
+#about {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 158px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Agency FB, UTM Neutra font, Agency FB font, UTM Neo Sans Intel font;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(230, 171, 23, 1);
+	text-transform: uppercase;
+}
+
+#mep {
+	position: absolute;
+	width: 505px;
+	height: 339px;
+	left: 43.5px;
+	top: 356.5px;
+	overflow: visible;
+}
+
+#A_Multi-Editor_Project_or_MEP_ {
+	left: 0px;
+	top: 64px;
+	position: absolute;
+	overflow: visible;
+	width: 506px;
+	height: 275px;
+	line-height: 38px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: UTM Neo Sans Intel, UTM Neutra font, Agency FB font, UTM Neo Sans Intel font;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 28px;
+	color: rgba(255, 255, 255, 1);
+}
+
+#MEP_db {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 155px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Agency FB, UTM Neutra font, Agency FB font, UTM Neo Sans Intel font;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(230, 171, 23, 1);
+	text-transform: uppercase;
+}
+
+#Line_1 {
+	filter: blur(1px);
+	fill: transparent;
+	stroke: rgba(0, 0, 0, 1);
+	stroke-width: 8px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+
+.Line_1 {
+	margin-left: -25px;
+	margin-top: -10px;
+	overflow: visible;
+	position: absolute;
+	width: 28px;
+	height: 747.022px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+#n_122227aaa325 {
+	filter: drop-shadow(0px 20px 6px rgba(0, 0, 0, 0.49));
+	position: absolute;
+	width: 1935px;
+	height: 726px;
+	left: -15px;
+	top: -3px;
+	overflow: visible;
+}
+
+#nav {
+	position: absolute;
+	width: 1632px;
+	height: 631px;
+	left: 86px;
+	top: 47px;
+	overflow: visible;
+}
+
+#JOIN_NOW {
+	left: 1344px;
+	top: 532px;
+	margin-left: 29px;
+	position: absolute;
+	overflow: hidden;
+	width: 289px;
+	height: 99px;
+	text-align: left;
+	font-family: Agency FB, UTM Neutra font, Agency FB font, UTM Neo Sans Intel font;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(0, 0, 0, 1);
+}
+
+#HOME_dg {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 86px;
+	height: 37px;
+	line-height: 38px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: UTM Neutra, UTM Neutra font, Agency FB font, UTM Neo Sans Intel font;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 28px;
+	color: rgba(230, 171, 23, 1);
+}
+
+#DONATE__MB_2001868633333 {
+	left: 496px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 523px;
+	height: 55px;
+	line-height: 38px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: UTM Neutra, UTM Neutra font, Agency FB font, UTM Neo Sans Intel font;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 28px;
+	color: rgba(230, 171, 23, 1);
+}
+
+#CONTACT {
+	left: 130px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 139px;
+	height: 37px;
+	line-height: 38px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: UTM Neutra, UTM Neutra font, Agency FB font, UTM Neo Sans Intel font;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 28px;
+	color: rgba(230, 171, 23, 1);
+}
+
+#MASKING {
+	left: 313px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 139px;
+	height: 37px;
+	line-height: 38px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: UTM Neutra, UTM Neutra font, Agency FB font, UTM Neo Sans Intel font;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 28px;
+	color: rgba(230, 171, 23, 1);
+}
+
+#footter {
+	position: absolute;
+	width: 1925px;
+	height: 281.821px;
+	left: 0px;
+	top: 4797.333px;
+	overflow: visible;
+}
+
+#Path_4 {
+	fill: rgba(0, 0, 0, 1);
+	stroke: rgba(112, 112, 112, 1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+
+.Path_4 {
+	overflow: visible;
+	position: absolute;
+	width: 1925px;
+	height: 281.821px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+#follow_us {
+	position: absolute;
+	width: 230.515px;
+	height: 121.471px;
+	left: 1207.591px;
+	top: 91.583px;
+	overflow: visible;
+}
+
+#Line_15 {
+	fill: transparent;
+	stroke: rgba(195, 204, 211, 1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+
+.Line_15 {
+	overflow: visible;
+	position: absolute;
+	width: 226px;
+	height: 1.098px;
+	left: 0.5px;
+	top: 39.902px;
+	transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+#FOLLOW_US_ON {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 152px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Lato, UTM Neutra font, Agency FB font, UTM Neo Sans Intel font;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(195, 204, 211, 1);
+}
+
+#fb {
+	position: absolute;
+	width: 50.471px;
+	height: 50.471px;
+	left: 0px;
+	top: 69.765px;
+	overflow: visible;
+}
+
+#Ellipse_6 {
+	opacity: 0.13;
+	fill: rgba(195, 204, 211, 1);
+}
+
+.Ellipse_6 {
+	position: absolute;
+	overflow: visible;
+	width: 50.471px;
+	height: 50.471px;
+	left: 0px;
+	top: 0px;
+}
+
+#fb_dr {
+	fill: rgba(195, 204, 211, 1);
+}
+
+.fb_dr {
+	overflow: visible;
+	position: absolute;
+	width: 10.125px;
+	height: 19.5px;
+	left: 20.46px;
+	top: 14.3px;
+	transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+#twitter {
+	position: absolute;
+	width: 50.471px;
+	height: 50.471px;
+	left: 58.882px;
+	top: 69.765px;
+	overflow: visible;
+}
+
+#Ellipse_7 {
+	opacity: 0.13;
+	fill: rgba(195, 204, 211, 1);
+}
+
+.Ellipse_7 {
+	position: absolute;
+	overflow: visible;
+	width: 50.471px;
+	height: 50.471px;
+	left: 0px;
+	top: 0px;
+}
+
+#Path_17 {
+	fill: rgba(45, 167, 226, 1);
+}
+
+.Path_17 {
+	overflow: visible;
+	position: absolute;
+	width: 18.469px;
+	height: 15px;
+	left: 16.498px;
+	top: 17.3px;
+	transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+#ins {
+	position: absolute;
+	width: 50.471px;
+	height: 50.471px;
+	left: 117.765px;
+	top: 69.765px;
+	overflow: visible;
+}
+
+#Ellipse_8 {
+	opacity: 0.13;
+	fill: rgba(195, 204, 211, 1);
+}
+
+.Ellipse_8 {
+	position: absolute;
+	overflow: visible;
+	width: 50.471px;
+	height: 50.471px;
+	left: 0px;
+	top: 0px;
+}
+
+#Path_18 {
+	fill: rgba(195, 204, 211, 1);
+}
+
+.Path_18 {
+	overflow: visible;
+	position: absolute;
+	width: 18px;
+	height: 18px;
+	left: 15.982px;
+	top: 15.8px;
+	transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+#youtube {
+	position: absolute;
+	width: 50.471px;
+	height: 50.471px;
+	left: 180.044px;
+	top: 71px;
+	overflow: visible;
+}
+
+#Ellipse_10 {
+	opacity: 0.13;
+	fill: rgba(195, 204, 211, 1);
+}
+
+.Ellipse_10 {
+	position: absolute;
+	overflow: visible;
+	width: 50.471px;
+	height: 50.471px;
+	left: 0px;
+	top: 0px;
+}
+
+#Path_20 {
+	fill: rgba(195, 204, 211, 1);
+}
+
+.Path_20 {
+	overflow: visible;
+	position: absolute;
+	width: 17.367px;
+	height: 21px;
+	left: 16.552px;
+	top: 13.5px;
+	transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+#about_the_web {
+	position: absolute;
+	width: 300.409px;
+	height: 126.054px;
+	left: 363px;
+	top: 87px;
+	overflow: visible;
+}
+
+#Line_16 {
+	fill: transparent;
+	stroke: rgba(195, 204, 211, 1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+
+.Line_16 {
+	overflow: visible;
+	position: absolute;
+	width: 164px;
+	height: 1px;
+	left: 0.5px;
+	top: 40px;
+	transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+#ABOUT_THE_WEB_d {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 164px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Lato, UTM Neutra font, Agency FB font, UTM Neo Sans Intel font;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(195, 204, 211, 1);
+}
+
+#The_Purpose_i_made_this_websit {
+	left: 0px;
+	top: 64.007px;
+	position: absolute;
+	overflow: visible;
+	width: 301.409px;
+	height: 62.046875px;
+	line-height: 26px;
+	margin-top: -6px;
+	text-align: left;
+	font-family: Lato, UTM Neutra font, Agency FB font, UTM Neo Sans Intel font;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(118, 135, 145, 1);
+	letter-spacing: 0.1px;
+}
+
+#about_me {
+	position: absolute;
+	width: 227.409px;
+	height: 107.047px;
+	left: 787.796px;
+	top: 87px;
+	overflow: visible;
+}
+
+#ABOUT_ME_d {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 106px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Lato, UTM Neutra font, Agency FB font, UTM Neo Sans Intel font;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(195, 204, 211, 1);
+}
+
+#Line_13 {
+	fill: transparent;
+	stroke: rgba(195, 204, 211, 1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+
+.Line_13 {
+	overflow: visible;
+	position: absolute;
+	width: 164px;
+	height: 1px;
+	left: 0.5px;
+	top: 40px;
+	transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+#Just_Making_AMV_for_Fun_now_I_ {
+	left: 0px;
+	top: 56px;
+	position: absolute;
+	overflow: visible;
+	width: 228.409px;
+	height: 51.04682159423828px;
+	line-height: 26px;
+	margin-top: -6px;
+	text-align: left;
+	font-family: Lato, UTM Neutra font, Agency FB font, UTM Neo Sans Intel font;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(118, 135, 145, 1);
+	letter-spacing: 0.1px;
+}
